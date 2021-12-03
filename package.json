@@ -1,0 +1,14 @@
+{
+  "name": "morgan-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S.Remillard",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^9.2.1"
+  }
+}
